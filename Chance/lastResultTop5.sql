@@ -1,0 +1,1 @@
+select top 5 * from chance order by rid desc

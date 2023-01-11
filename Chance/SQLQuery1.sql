@@ -1,0 +1,1 @@
+create table chance (rid int not null IDENTITY(1,1) primary key,cardA nvarchar(2) not null,cardL nvarchar(2) not null,cardY nvarchar(2) not null,cardT nvarchar(2) not null)

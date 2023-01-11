@@ -1,0 +1,17 @@
+C:\Users\המחשב שלי\Desktop\software\windows app\Chance\Chance\bin\Debug\Chance.exe.config
+C:\Users\המחשב שלי\Desktop\software\windows app\Chance\Chance\bin\Debug\Chance.exe
+C:\Users\המחשב שלי\Desktop\software\windows app\Chance\Chance\bin\Debug\Chance.pdb
+C:\Users\המחשב שלי\Desktop\software\windows app\Chance\Chance\obj\Debug\Chance.csproj.AssemblyReference.cache
+C:\Users\המחשב שלי\Desktop\software\windows app\Chance\Chance\obj\Debug\Chance.csproj.SuggestedBindingRedirects.cache
+C:\Users\המחשב שלי\Desktop\software\windows app\Chance\Chance\obj\Debug\Chance.Form1.resources
+C:\Users\המחשב שלי\Desktop\software\windows app\Chance\Chance\obj\Debug\Chance.LastResult.resources
+C:\Users\המחשב שלי\Desktop\software\windows app\Chance\Chance\obj\Debug\Chance.Properties.Resources.resources
+C:\Users\המחשב שלי\Desktop\software\windows app\Chance\Chance\obj\Debug\Chance.csproj.GenerateResource.cache
+C:\Users\המחשב שלי\Desktop\software\windows app\Chance\Chance\obj\Debug\Chance.csproj.CoreCompileInputs.cache
+C:\Users\המחשב שלי\Desktop\software\windows app\Chance\Chance\obj\Debug\Chance.exe
+C:\Users\המחשב שלי\Desktop\software\windows app\Chance\Chance\obj\Debug\Chance.pdb
+C:\Users\המחשב שלי\Desktop\software\windows app\Chance\Chance\obj\Debug\Chance.Recommendations.resources
+C:\Users\המחשב שלי\Desktop\software\windows app\Chance\Chance\obj\Debug\Chance.CreateForm.resources
+C:\Users\המחשב שלי\Desktop\software\windows app\Chance\Chance\obj\Debug\Chance.Login.resources
+C:\Users\המחשב שלי\Desktop\software\windows app\Chance\Chance\obj\Debug\Chance.SignUP.resources
+C:\Users\המחשב שלי\Desktop\software\windows app\Chance\Chance\obj\Debug\Chance.BilForm.resources
